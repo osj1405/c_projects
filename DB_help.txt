@@ -1,0 +1,6 @@
+사용 방법
+./a.out -list 파일명 : 입력 파일의 내용을 화면에 출력함
+./a.out -linecount 파일명  : 입력 파일의 라인 수를 확인함
+./a.out -replace 파일명  int double : 입력 파일의 int가 double로 바뀜
+./a.out -analysis 파일명 : 본 소스 코드에서 사용된 변수와 함수의 개수를 확인함
+./a.out -analysis_detail 파일명 : 본 소스 코드에서 사용된 전역 변수의 개수와 사용된 함수들의 파라미터와 리턴타입을 확인함
